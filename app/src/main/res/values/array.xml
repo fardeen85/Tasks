@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="textsizes">
+        <item>18dp</item>
+        <item>14dp</item>
+        <item>12dp</item>
+        <item>8</item>
+
+    </array>
+</resources>
